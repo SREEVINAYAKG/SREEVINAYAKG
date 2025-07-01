@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m G Sree Vinayak.
-- 🌱 I’m currently learning DSA , AI/ML and WEB DEV
+- 🌱 I’m currently learning DSA , ML and WEB DEV
 
 
 <!---
